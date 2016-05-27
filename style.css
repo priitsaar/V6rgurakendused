@@ -1,0 +1,65 @@
+body{
+	font-family: Arial, sans-serif;
+	background-color: #FFE0B2;
+}
+h1 {
+	margin-top:5px;
+	border-bottom: 5px solid #509030;
+}
+#lisa-vorm {
+    display: none;
+}
+#logout {
+	margin-top: -5px;
+}
+p{
+	font-size: 20px;
+	width: 1000px;
+	text-align: justify;
+}
+
+input[type="text"], input[type="password"], input[type="number"]{
+	font-size: 15px;
+	padding: 3px 7px;
+	border: 1px solid #123456;
+	border-radius: 17px;
+}
+#uus_msg {
+	width: 80em;
+}
+
+button[type="button"], button[type="submit"]{
+	border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+a{
+	border: none;
+    color: white;
+	background-color: orange;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.neg_action {
+	background-color: #f44336;
+}
+
+#kuva {
+	background-color: #008CBA;
+}
+
+.pos_action {
+	background-color: #4CAF50;
+}
